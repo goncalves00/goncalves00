@@ -1,13 +1,52 @@
-## 👤 About Me
+```
+ ██████╗  ██████╗ ███╗   ██╗ ██████╗ █████╗ ██╗    ██╗   ██╗███████╗███████╗
+██╔════╝ ██╔═══██╗████╗  ██║██╔════╝██╔══██╗██║    ██║   ██║██╔════╝██╔════╝
+██║  ███╗██║   ██║██╔██╗ ██║██║     ███████║██║    ██║   ██║█████╗  ███████╗
+██║   ██║██║   ██║██║╚██╗██║██║     ██╔══██║██║    ╚██╗ ██╔╝██╔══╝  ╚════██║
+╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗██║  ██║███████╗╚████╔╝ ███████╗███████║
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚══════╝╚══════╝
+```
 
-🎓 Graduado em **Defesa Cibernética**  
-🔵 Entusiasta de **AppSec** e **Blue Team**  
-🔍 Foco em identificação de vulnerabilidades, monitoramento de ameaças e resposta a incidentes  
-📚 Sempre aprendendo. Sempre defendendo.
+```bash
+$ whoami
+> cyber_defender | appsec_analyst | blue_teamer
+```
+
+```
+[*] Initializing profile...
+[*] Loading credentials...
+[+] Access granted.
+```
 
 ---
 
-## 💻 Languages
+```
+> Hello, friend.
+  
+  Você não me conhece, mas eu sei como sistemas falham.
+  Formado em Defesa Cibernética. Obcecado com AppSec e Blue Team.
+  Não invado sistemas, eu os protejo antes que alguém tente.
+
+  "Give a man a gun and he can rob a bank,
+   but give a man a bank and he can rob the world."
+   
+  Eu prefiro fechar as brechas.
+```
+
+---
+
+## `> ./skills --list languages`
+
+```
+[SCANNING...]  ████████████████████  100%
+
+[+] Python          ██████████  ACTIVE
+[+] JavaScript      ██████████  ACTIVE  
+[+] HTML5           ██████████  ACTIVE
+[+] CSS3            ██████████  ACTIVE
+[+] Bash Scripting  █████████░  ACTIVE
+[+] C++             ████████░░  ACTIVE
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +57,29 @@
 
 ---
 
-## 🛡️ Cybersecurity & OS
+## `> ./skills --list tools`
+
+```
+[LOADING ARSENAL...]
+
+[RECON]
+  ├── Nmap              → network mapping & port scanning
+  └── Nuclei            → vulnerability scanning
+
+[EXPLOITATION ANALYSIS]  
+  └── Burp Suite        → web application security testing
+
+[IDENTITY & ACCESS]
+  └── Active Directory  → directory services & AD security
+
+[OPERATING SYSTEMS]
+  ├── Kali Linux        → primary offensive/defensive OS
+  ├── Ubuntu            → server-side operations
+  └── Windows           → enterprise environment
+
+[DEVELOPMENT]
+  └── VSCode            → code editor
+```
 
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -28,3 +89,17 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## `> ./focus --current`
+
+```
+[*] AppSec            → OWASP Top 10 | web vulnerabilities | secure code review
+[*] Blue Team         → threat detection | incident response | log analysis
+[*] Defesa Cibernética → graduated | always learning
+```
+
+---
+
+```
