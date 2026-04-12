@@ -147,12 +147,17 @@ $ whoami
 
 ```
 
+```
+markdown
+---
+
 <div align="center">
 
 ### `[ Hacking in Progress... ]`
 
 ![Hacking](images/Coding The Matrix GIF.gif)
 
-### Thanks for visiting, friend.
+### Thanks for visiting, friend. 👾
 
 </div>
+```
