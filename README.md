@@ -6,7 +6,7 @@
 ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗██║  ██║███████╗╚████╔╝ ███████╗███████║
  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚══════╝╚══════╝
 ```
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=plastic&logo=hackthebox&logoColor=white)
 ![Application Security](https://img.shields.io/badge/Application_Security-white?style=for-the-badge&logo=owasp&logoColor=black)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-black?style=for-the-badge&logo=microsoftdefender&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-white?style=for-the-badge&logo=owasp&logoColor=black)
