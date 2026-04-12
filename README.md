@@ -99,18 +99,18 @@ $ whoami
   └── VSCode            → code editor
 ```
 
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logo=nuclei&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=plastic&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-white?style=plastic&logo=burpsuite&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=plastic&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-white?style=plastic&logo=wireshark&logoColor=black)
+![ffuf](https://img.shields.io/badge/ffuf-black?style=plastic&logo=gnubash&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-white?style=plastic&logo=nuclei&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=plastic&logo=kalilinux&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-white?style=plastic&logo=microsoft&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-white?style=plastic&logo=visualstudiocode&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=plastic&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-white?style=plastic&logo=windows&logoColor=black)
 
 ---
 
