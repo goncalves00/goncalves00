@@ -127,7 +127,7 @@ $ whoami
   └── Certified Phishing Prevention Specialist (CPPS) - Hack & Fix
 
 [COURSES]
-  └── Introduction Cybersecurity - Cisco
+  └── Introduction Cybersecurity - ![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-4CAF50?style=for-the-badge&logo=cisco&logoColor=white)
   └── Hackers for Good (Basic, Leveling, Fundamental)
 
 ```
