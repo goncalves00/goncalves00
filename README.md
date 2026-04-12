@@ -149,15 +149,19 @@ $ whoami
 <div align="center">
 
 ```diff
-+ [ Hacking in Progress... ]
+ [ Hacking in Progress... ]
 ```
 
 ![Hacking](images/Coding%20The%20Matrix%20GIF.gif)
 
+<div align="center">
+ 
 ```diff
-- Thanks for visiting, friend.
-- Fail fast. Keep learning. Always evolving.
-- [ CONNECTION CLOSED... ]
+
+Thanks for visiting, friend.
+Fail fast. Keep learning. Always evolving.
+
+[ CONNECTION CLOSED... ]
 ```
 
 </div>
