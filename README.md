@@ -38,7 +38,7 @@ $ whoami
 ## `> ./skills --list languages`
 
 ```
-[SCANNING...]  ████████████████████  100%
+- [SCANNING...]  ████████████████████  100%
 
 [+] Python          ██████████  ACTIVE
 [+] JavaScript      ██████████  ACTIVE  
