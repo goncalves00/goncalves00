@@ -140,9 +140,9 @@ $ whoami
 
 ```
 
-![Cisco - Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Hacker do Bem - Basic](https://img.shields.io/badge/Hacker_do_Bem-Basic-1a1a2e?style=for-the-badge&logoColor=white)
-![Hacker do Bem - Leveling](https://img.shields.io/badge/Hacker_do_Bem-Leveling-16213e?style=for-the-badge&logoColor=white)
-![Hacker do Bem - Fundamental](https://img.shields.io/badge/Hacker_do_Bem-Fundamental-0f3460?style=for-the-badge&logoColor=white)
+![Cisco - Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-black?style=plastic&logo=cisco&logoColor=white)
+![Hacker do Bem - Basic](https://img.shields.io/badge/Hacker_do_Bem-Basic-white?style=plastic&logoColor=black)
+![Hacker do Bem - Leveling](https://img.shields.io/badge/Hacker_do_Bem-Leveling-black?style=plastic&logoColor=white)
+![Hacker do Bem - Fundamental](https://img.shields.io/badge/Hacker_do_Bem-Fundamental-white?style=plastic&logoColor=black)
 
 ```
