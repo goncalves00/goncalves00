@@ -7,12 +7,12 @@
  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚══════╝╚══════╝
 ```
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=plastic&logo=hackthebox&logoColor=white)
-![Application Security](https://img.shields.io/badge/Application_Security-white?style=for-the-badge&logo=owasp&logoColor=black)
-![Blue Team](https://img.shields.io/badge/Blue_Team-black?style=for-the-badge&logo=microsoftdefender&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-white?style=for-the-badge&logo=owasp&logoColor=black)
-![CTF](https://img.shields.io/badge/CTF-black?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Hacking](https://img.shields.io/badge/Ethical_Hacking-white?style=for-the-badge&logo=kalilinux&logoColor=black)
-![CVE](https://img.shields.io/badge/CVE_Research-black?style=for-the-badge&logo=redhat&logoColor=white)
+![Application Security](https://img.shields.io/badge/Application_Security-white?style=plastic&logo=owasp&logoColor=black)
+![Blue Team](https://img.shields.io/badge/Blue_Team-black?style=plastic&logo=microsoftdefender&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-white?style=plastic&logo=owasp&logoColor=black)
+![CTF](https://img.shields.io/badge/CTF-black?style=plastic&logo=hackthebox&logoColor=white)
+![Hacking](https://img.shields.io/badge/Ethical_Hacking-white?style=plastic&logo=kalilinux&logoColor=black)
+![CVE](https://img.shields.io/badge/CVE_Research-black?style=plastic&logo=redhat&logoColor=white)
 
 ```bash
 $ whoami
