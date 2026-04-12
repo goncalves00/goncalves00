@@ -132,8 +132,4 @@ $ whoami
 
 ```
 
-> 💡 *Substitua os comentários acima pelas suas certificações e cursos reais.*
-
----
-
 ```
