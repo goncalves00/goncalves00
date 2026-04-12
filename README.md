@@ -140,9 +140,24 @@ $ whoami
 
 ```
 
-![Cisco - Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-black?style=plastic&logo=cisco&logoColor=white)
 ![Hacker do Bem - Basic](https://img.shields.io/badge/Hacker_do_Bem-Basic-white?style=plastic&logoColor=black)
 ![Hacker do Bem - Leveling](https://img.shields.io/badge/Hacker_do_Bem-Leveling-black?style=plastic&logoColor=white)
 ![Hacker do Bem - Fundamental](https://img.shields.io/badge/Hacker_do_Bem-Fundamental-white?style=plastic&logoColor=black)
 
+---
+
+<div align="center">
+
+```diff
++ [ Hacking in Progress... ]
 ```
+
+![Hacking](images/Coding%20The%20Matrix%20GIF.gif)
+
+```diff
+- Thanks for visiting, friend.
+- Fail fast. Keep learning. Always evolving.
+- [ CONNECTION CLOSED... ]
+```
+
+</div>
