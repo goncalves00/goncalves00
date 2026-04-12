@@ -63,26 +63,46 @@ $ whoami
 [LOADING ARSENAL...]
 
 [RECON]
-  ├── ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white) → network mapping & port scanning
-  └── ![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=flat-square&logo=nuclei&logoColor=white) → vulnerability scanning
+  ├── Nmap              → network mapping & port scanning
+  └── Nuclei            → vulnerability scanning
 
-[EXPLOITATION ANALYSIS]
-  ├── ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) → web application security testing
-  └── ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white) → exploit development & execution
+[EXPLOITATION ANALYSIS]  
+  ├── Burp Suite        → web application security testing
+  └── Metasploit        → exploit development & execution
+
+[FUZZING & DISCOVERY]
+  └── ffuf              → web fuzzing & content discovery
 
 [ANALYSIS & SNIFFING]
-  └── ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) → network protocol analysis & traffic sniffing
+  └── Wireshark         → network protocol analysis & traffic sniffing
 
 [IDENTITY & ACCESS]
-  └── ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) → directory services & AD security
+  └── Active Directory  → directory services & AD security
 
 [OPERATING SYSTEMS]
-  ├── ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) → primary offensive/defensive OS
-  ├── ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) → server-side operations
-  └── ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) → enterprise environment
+  ├── Kali Linux        → primary offensive/defensive OS
+  ├── Ubuntu            → server-side operations
+  └── Windows           → enterprise environment
+
+[DATABASE]
+  └── MySQL             → relational database management
 
 [DEVELOPMENT]
-  └── ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) → code editor
+  └── VSCode            → code editor
+```
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logo=nuclei&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -93,6 +113,26 @@ $ whoami
 [*] Blue Team         → threat detection | incident response | log analysis
 [*] Defesa Cibernética → graduated | always learning
 ```
+
+---
+
+## `> ./certifications --list`
+
+```
+[LOADING CERTIFICATIONS & COURSES...]
+
+[CERTIFICATIONS]
+  └── Analysis and Management of Information Security - Estácio de Sá University
+  └── Cloud Security - Estácio de Sá University
+  └── Certified Phishing Prevention Specialist (CPPS) - Hack & Fix
+
+[COURSES]
+  └── Introduction Cybersecurity - Cisco
+  └── Hackers for Good (Basic, Leveling, Fundamental)
+
+```
+
+> 💡 *Substitua os comentários acima pelas suas certificações e cursos reais.*
 
 ---
 
