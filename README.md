@@ -6,13 +6,19 @@
 ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗██║  ██║███████╗╚████╔╝ ███████╗███████║
  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚══════╝╚══════╝
 ```
-
-![Visitors](https://komarev.com/ghpvc/?username=goncalves00&color=green&style=for-the-badge&label=VISITORS)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Application Security](https://img.shields.io/badge/Application_Security-CC0000?style=for-the-badge&logo=owasp&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue_Team-0000FF?style=for-the-badge&logo=microsoftdefender&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Hacking](https://img.shields.io/badge/Ethical_Hacking-333333?style=for-the-badge&logo=kalilinux&logoColor=white)
+![CVE](https://img.shields.io/badge/CVE_Research-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ```bash
 $ whoami
 > cyber_defender | appsec_analyst | blue_teamer 
 ```
+![Visitors](https://komarev.com/ghpvc/?username=goncalves00&color=green&style=for-the-badge&label=VISITORS)
 
 ```
 [*] Initializing profile...
