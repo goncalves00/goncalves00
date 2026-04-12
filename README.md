@@ -23,14 +23,14 @@ $ whoami
 ```
 > Hello, friend.
   
-  Você não me conhece, mas eu sei como sistemas falham.
-  Formado em Defesa Cibernética. Obcecado com AppSec e Blue Team.
-  Não invado sistemas, eu os protejo antes que alguém tente.
+  You don't know me, but I know how systems fail.
+  Bachelor's degree in Cybersecurity. Obsessed with AppSec and Blue Team.
+  I don't compromise systems, I protect them before anyone else tries.
 
   "Give a man a gun and he can rob a bank,
    but give a man a bank and he can rob the world."
    
-  Eu prefiro fechar as brechas.
+  I prefer to close the doors.
 ```
 
 ---
@@ -62,33 +62,27 @@ $ whoami
 ```
 [LOADING ARSENAL...]
 
-[RECON]
-  ├── Nmap              → network mapping & port scanning
-  └── Nuclei            → vulnerability scanning
+**[RECON]**
+  ├── ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white) → network mapping & port scanning
+  └── ![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=flat-square&logo=nuclei&logoColor=white) → vulnerability scanning
 
-[EXPLOITATION ANALYSIS]  
-  └── Burp Suite        → web application security testing
+**[EXPLOITATION ANALYSIS]**
+  ├── ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) → web application security testing
+  └── ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white) → exploit development & execution
 
-[IDENTITY & ACCESS]
-  └── Active Directory  → directory services & AD security
+**[ANALYSIS & SNIFFING]**
+  └── ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) → network protocol analysis & traffic sniffing
 
-[OPERATING SYSTEMS]
-  ├── Kali Linux        → primary offensive/defensive OS
-  ├── Ubuntu            → server-side operations
-  └── Windows           → enterprise environment
+**[IDENTITY & ACCESS]**
+  └── ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) → directory services & AD security
 
-[DEVELOPMENT]
-  └── VSCode            → code editor
-```
+**[OPERATING SYSTEMS]**
+  ├── ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) → primary offensive/defensive OS
+  ├── ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) → server-side operations
+  └── ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) → enterprise environment
 
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logo=nuclei&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**[DEVELOPMENT]**
+  └── ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) → code editor
 
 ---
 
