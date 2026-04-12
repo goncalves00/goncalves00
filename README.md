@@ -146,18 +146,3 @@ $ whoami
 ![Hacker do Bem - Fundamental](https://img.shields.io/badge/Hacker_do_Bem-Fundamental-white?style=plastic&logoColor=black)
 
 ```
-
-```
-markdown
----
-
-<div align="center">
-
-### `[ Hacking in Progress... ]`
-
-![Hacking](images/Coding The Matrix GIF.gif)
-
-### Thanks for visiting, friend. 👾
-
-</div>
-```
