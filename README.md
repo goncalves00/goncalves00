@@ -152,7 +152,7 @@ $ whoami
  [ Hacking in Progress... ]
 ```
 
-![Hacking](images/Coding%20The%20Matrix%20GIF.gif)
+<img src="images/Coding%20The%20Matrix%20GIF.gif" width"400"/>
 
 <div align="center">
  
