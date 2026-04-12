@@ -7,9 +7,11 @@
  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚══════╝╚══════╝
 ```
 
+![Visitors](https://hits.sh/github.com/SEU_USUARIO/SEU_USUARIO.svg?style=for-the-badge&color=CC0000)
+
 ```bash
 $ whoami
-> cyber_defender | appsec_analyst | blue_teamer
+> cyber_defender | appsec_analyst | blue_teamer 
 ```
 
 ```
