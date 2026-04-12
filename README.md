@@ -12,24 +12,24 @@ $ whoami
 > cyber_defender | appsec_analyst | blue_teamer
 ```
 
-```
-[*] Initializing profile...
-[*] Loading credentials...
-[+] Access granted.
+```diff
++ [*] Initializing profile...
++ [*] Loading credentials...
++ [+] Access granted.
 ```
 
 ---
 
-```
+```yaml
 > Hello, friend.
-  
+
   You don't know me, but I know how systems fail.
   Bachelor's degree in Cybersecurity. Obsessed with AppSec and Blue Team.
   I don't compromise systems, I protect them before anyone else tries.
 
   "Give a man a gun and he can rob a bank,
    but give a man a bank and he can rob the world."
-   
+
   I prefer to close the doors.
 ```
 
@@ -37,15 +37,15 @@ $ whoami
 
 ## `> ./skills --list languages`
 
-```
-[SCANNING...]  ████████████████████  100%
+```diff
++ [SCANNING...]  ████████████████████  100%
 
-[+] Python          ██████████  ACTIVE
-[+] JavaScript      ██████████  ACTIVE  
-[+] HTML5           ██████████  ACTIVE
-[+] CSS3            ██████████  ACTIVE
-[+] Bash Scripting  █████████░  ACTIVE
-[+] C++             ████████░░  ACTIVE
++ [+] Python          ██████████  ACTIVE
++ [+] JavaScript      ██████████  ACTIVE
++ [+] HTML5           ██████████  ACTIVE
++ [+] CSS3            ██████████  ACTIVE
++ [+] Bash Scripting  █████████░  ACTIVE
++ [+] C++             ████████░░  ACTIVE
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,36 +59,36 @@ $ whoami
 
 ## `> ./skills --list tools`
 
-```
-[LOADING ARSENAL...]
+```diff
++ [LOADING ARSENAL...]
 
-[RECON]
-  ├── Nmap              → network mapping & port scanning
-  └── Nuclei            → vulnerability scanning
++ [RECON]
++   ├── Nmap              → network mapping & port scanning
++   └── Nuclei            → vulnerability scanning
 
-[EXPLOITATION ANALYSIS]  
-  ├── Burp Suite        → web application security testing
-  └── Metasploit        → exploit development & execution
++ [EXPLOITATION ANALYSIS]
++   ├── Burp Suite        → web application security testing
++   └── Metasploit        → exploit development & execution
 
-[FUZZING & DISCOVERY]
-  └── ffuf              → web fuzzing & content discovery
++ [FUZZING & DISCOVERY]
++   └── ffuf              → web fuzzing & content discovery
 
-[ANALYSIS & SNIFFING]
-  └── Wireshark         → network protocol analysis & traffic sniffing
++ [ANALYSIS & SNIFFING]
++   └── Wireshark         → network protocol analysis & traffic sniffing
 
-[IDENTITY & ACCESS]
-  └── Active Directory  → directory services & AD security
++ [IDENTITY & ACCESS]
++   └── Active Directory  → directory services & AD security
 
-[OPERATING SYSTEMS]
-  ├── Kali Linux        → primary offensive/defensive OS
-  ├── Ubuntu            → server-side operations
-  └── Windows           → enterprise environment
++ [OPERATING SYSTEMS]
++   ├── Kali Linux        → primary offensive/defensive OS
++   ├── Ubuntu            → server-side operations
++   └── Windows           → enterprise environment
 
-[DATABASE]
-  └── MySQL             → relational database management
++ [DATABASE]
++   └── MySQL             → relational database management
 
-[DEVELOPMENT]
-  └── VSCode            → code editor
++ [DEVELOPMENT]
++   └── VSCode            → code editor
 ```
 
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
@@ -108,7 +108,7 @@ $ whoami
 
 ## `> ./focus --current`
 
-```
+```yaml
 [*] AppSec            → OWASP Top 10 | web vulnerabilities | secure code review
 [*] Blue Team         → threat detection | incident response | log analysis
 [*] Defesa Cibernética → graduated | always learning
@@ -118,18 +118,15 @@ $ whoami
 
 ## `> ./certifications --list`
 
-```
-[LOADING CERTIFICATIONS & COURSES...]
+```diff
++ [LOADING CERTIFICATIONS & COURSES...]
 
-[CERTIFICATIONS]
-  └── Analysis and Management of Information Security - Estácio de Sá University
-  └── Cloud Security - Estácio de Sá University
-  └── Certified Phishing Prevention Specialist (CPPS) - Hack & Fix
++ [CERTIFICATIONS]
++   └── Analysis and Management of Information Security - Estácio de Sá University
++   └── Cloud Security - Estácio de Sá University
++   └── Certified Phishing Prevention Specialist (CPPS) - Hack & Fix
 
-[COURSES]
-  └── Introduction Cybersecurity - Cisco
-  └── Hackers for Good (Basic, Leveling, Fundamental)
-
-```
-
++ [COURSES]
++   └── Introduction Cybersecurity - Cisco
++   └── Hackers for Good (Basic, Leveling, Fundamental)
 ```
