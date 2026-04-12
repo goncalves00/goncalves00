@@ -7,7 +7,7 @@
  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚══════╝╚══════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=red&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=goncalves00color=red&style=for-the-badge&label=VISITORS)
 
 ```bash
 $ whoami
