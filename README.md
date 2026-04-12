@@ -63,7 +63,7 @@ $ whoami
 [LOADING ARSENAL...]
 
 [RECON]
-  ├── ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)              → network mapping & port scanning
+  ├── Nmap              → network mapping & port scanning
   └── Nuclei            → vulnerability scanning
 
 [EXPLOITATION ANALYSIS]  
