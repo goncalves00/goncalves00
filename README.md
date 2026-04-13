@@ -13,7 +13,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=plastic&logo=hackthebox&logoColor=white)
 ![Application Security](https://img.shields.io/badge/Application_Security-white?style=plastic&logo=owasp&logoColor=black)
-![Blue Team](https://img.shields.io/badge/Blue_Team-black?style=plastic&logo=microsoftdefender&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red_Team-black?style=plastic&logo=microsoftdefender&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-white?style=plastic&logo=owasp&logoColor=black)
 ![CTF](https://img.shields.io/badge/CTF-black?style=plastic&logo=hackthebox&logoColor=white)
 ![Hacking](https://img.shields.io/badge/Ethical_Hacking-white?style=plastic&logo=kalilinux&logoColor=black)
