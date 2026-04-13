@@ -21,7 +21,7 @@
 
 ```bash
 $ whoami
-> cyber_defender | appsec_analyst | blue_teamer 
+> cyber_defender | appsec_analyst | Red_teamer 
 ```
 ![Visitors](https://komarev.com/ghpvc/?username=goncalves00&color=green&style=plastic&label=VISITORS)
 
@@ -123,7 +123,7 @@ $ whoami
 
 ```
 [*] AppSec            → OWASP Top 10 | web vulnerabilities | secure code review
-[*] Blue Team         → threat detection | incident response | log analysis
+[*] Red Team         → penetration testing | exploitation | adversary simulation
 [*] Defesa Cibernética → graduated | always learning
 ```
 
